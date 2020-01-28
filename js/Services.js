@@ -1,0 +1,1 @@
+$(function(){"use strict";var e=$("#change");$("#icon").hover(function(){e.addClass("fa-envelope-open"),e.removeClass("fa-envelope")},function(){e.addClass("fa-envelope"),e.removeClass("fa-envelope-open")}),$('[data-toggle="tooltip"]').tooltip()});
